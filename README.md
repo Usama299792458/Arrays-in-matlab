@@ -1,3 +1,3 @@
-# Arrays-in-matlab
+Lab_4
 Arrays Basic Signals And Sounds In MATALB 
 Exploring arrays and how to use them to construct the signals and arrays in MATLAB 
